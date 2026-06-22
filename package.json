@@ -38,6 +38,13 @@
     "react-native-web": "~0.21.0",
     "react-native-worklets": "0.8.3"
   },
+  "doctor": {
+    "reactNativeDirectoryCheck": {
+      "exclude": [
+        "expo-av"
+      ]
+    }
+  },
   "devDependencies": {
     "@types/react": "~19.2.2",
     "typescript": "~6.0.3"
