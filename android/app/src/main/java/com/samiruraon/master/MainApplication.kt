@@ -1,4 +1,4 @@
-package com.samiruraon.myapp
+package com.samiruraon.master
 
 import android.app.Application
 import android.content.res.Configuration

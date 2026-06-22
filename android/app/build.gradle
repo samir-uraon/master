@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.samiruraon.myapp'
+    namespace 'com.samiruraon.master'
     defaultConfig {
-        applicationId 'com.samiruraon.myapp'
+        applicationId 'com.samiruraon.master'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

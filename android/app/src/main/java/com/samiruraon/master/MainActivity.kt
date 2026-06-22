@@ -1,4 +1,4 @@
-package com.samiruraon.myapp
+package com.samiruraon.master
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build
