@@ -3,7 +3,6 @@ import { Platform, View, Text, TouchableOpacity, StyleSheet } from "react-native
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useRouter } from "expo-router";
 
-import { AnimatedIcon } from "@/components/animated-icon";
 
 
 
@@ -39,7 +38,7 @@ export default function HomeScreen() {
 
         {/* HERO */}
         <View style={styles.hero}>
-          <AnimatedIcon />
+
 
           <Text style={styles.title}>Welcome to Pay</Text>
 
