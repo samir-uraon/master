@@ -11,6 +11,7 @@ export default function Layout() {
       <Stack.Screen name="scan" />
       <Stack.Screen name="link" />
       <Stack.Screen name="payment" />
+      <Stack.Screen name="success" />
     </Stack>
   );
 }
